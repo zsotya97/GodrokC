@@ -192,7 +192,7 @@ int main(char* args, char** argv)
 
 		}
 		if (monCsokken == 1)printf("\nb)\nFolyamatosan mélyül\n");
-		else if (monNo == 1)printf("\nb)\nNem mélyül folyamatosan\n");
+		else if (monNo == 1)printf("\nb)\nFolyamatosan mélyül\n");
 		else printf("\nb)\nNem mélyül folyamatosan\n");
 		/*----------------6. |b| vége------------------------------------*/
 
